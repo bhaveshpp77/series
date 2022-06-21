@@ -1,4 +1,5 @@
 # series
 
-to decompress a file
+To decompress a file
+
 bzip2 -d filename
