@@ -10,3 +10,4 @@
 
 # gunzip filename 
 
+##Each directory can contain upto 1000 files only 
