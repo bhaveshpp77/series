@@ -1,5 +1,10 @@
 # series
 
-To decompress a file
+# To decompress a ".bz2" file
 
-bzip2 -d filename
+# bzip2 -d filename
+
+# to decompress a zip ".gz" file
+
+# gunzip filename 
+
