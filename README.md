@@ -1,4 +1,4 @@
-# series is the contenys of file in below order 
+# series is the contents of file in below order 
 
 #  abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 
 
